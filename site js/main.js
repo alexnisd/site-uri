@@ -1,6 +1,5 @@
 //Colors array
-let colors = ["url(img/edi1.jpg)", "url(img/edi2.jpg)", "url(img/edi3.jpg)", "url(img/edi4.jpg)", "url(img/edi5.jpg)", "url(img/edi6.png)", "url(img/edi7.jpg)", "url(img/edi8.jpg)", "url(img/edi9.png)", "url(img/edi10.png)"];
-
+let colors = ["url(img/poza.jpg)", "url(img/poza2.jpg)", "url(img/poza3.jpg)", "url(img/poza4.jpg)", "url(img/poza5.jpg)"
 //get button
 let button = document.getElementById('button');
 
